@@ -13,14 +13,12 @@ Conhecimentos aprendidos:
     <li>JRE: É um pacote de tudo o que é necessário para executar um programa Java compilado, incluindo a Java Virtual Machine (JVM)</li>
     <li>JDK: Kit de desenvolvimento java </li>
     <li>IDE: Ambiente integrado de desenvolvimento</li>
-    <>Workspace é a pasta padrão para armazenamento do projeto</li>
+    <li>Workspace é a pasta padrão para armazenamento do projeto</li>
   </ul>
 </div>
 
-Instruções
 <div>
-  
-  <li>Sout</li>
+  <li></li>
   <li></li>
   <li></li>
 </div>
