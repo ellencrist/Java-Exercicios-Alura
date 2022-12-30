@@ -29,8 +29,6 @@ Conhecimentos aprendidos:
   </ul>
 </div>
 
-<br>
-
 <h3>tabela de tipos e tamanhos de dados</h3>
 <div>
   <ul>
@@ -45,16 +43,12 @@ Conhecimentos aprendidos:
   </ul>
 </div>
 
-<br>
-
 <h3>conversões</h3>
 <div>
   <ul>
     <li>cast</li>
   </ul>
 </div>
-
-<br>
 
 <h3>Funções</h3>
 <div>
@@ -63,8 +57,6 @@ Conhecimentos aprendidos:
     <li>concatenação</li>
   </ul>
 </div>
-
-<br>
 
 <h3>operações lógicas:</h3>
 <div>
@@ -76,16 +68,12 @@ Conhecimentos aprendidos:
   </ul>
 </div>
 
-<br>
-
 <h3>instruções</h3>
 <div>
   <ul>
       <li>break</li>
     </ul>
 </div>
-
-<br>
 
 <h3>estruturas e laços de repetição:</h3>
 <div>
